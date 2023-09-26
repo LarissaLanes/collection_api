@@ -1,46 +1,55 @@
 {
  "albuns": [
     {
+      "id" : "1",
       "nome": "Big Brother Brasil",
       "capa": "https://i.im.ge/2023/09/26/NmluLS.Rectangle-55.png",
       "imagem": "https://i.im.ge/2023/09/26/NmlrQy.Group-61.png",
       "figurinhas": [
         {
+          "id" : "1",
           "nome": "Cacto Lider",
           "imagem": "https://i.im.ge/2023/09/26/NmSfcG.cacto.png",
           "categoria": "Objetos"
         },
         {
+          "id" : "2",
           "nome": "Rob BBB Laranja",
           "imagem": "https://i.im.ge/2023/09/26/NmSWVT.Group-48.png",
           "categoria": "RobBBB"
         },
         {
+            "id" : "3",
             "nome": "Big Fone",
             "imagem": "https://i.im.ge/2023/09/26/NmSV0L.bigFone.png",
             "categoria": "Objetos"
         },
         {
+          "id" : "4",
           "nome": "Rob BBB Mostro",
           "imagem": "https://i.im.ge/2023/09/26/NmSkex.bbb2.png",
           "categoria": ["RobBBB", "Raras"]
         },
         {
+            "id" : "5",
             "nome": "Rob BBB Anjo",
             "imagem": "https://i.im.ge/2023/09/26/NmSKlc.Group-108-1.png",
             "categoria": ["RobBBB", "Raras"]
         },
         {
+            "id" : "6",
             "nome": "Juliette Freire",
             "imagem": "https://i.im.ge/2023/09/26/NmaHR6.Group-48-1.png",
             "categoria": "Brothes"  
         },
         {
+            "id" : "7",
             "nome": "Tadeu Schmidt",
             "imagem": "https://i.im.ge/2023/09/26/NmavTF.tadeu.png",
             "categoria": "Apresentadores"
         },
         {
+            "id" : "8",
             "nome": "Gil do Vigor",
             "imagem": "https://i.im.ge/2023/09/26/NmSHDa.gil.png",
             "categoria" : "Brothes"
@@ -48,16 +57,19 @@
       ]
     },
     {
+      "id" : "2",
       "nome": "Tunel do Amor",
       "capa": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
       "imagem": "https://i.im.ge/2023/09/26/NmlrQy.Group-61.png",
       "figurinhas": [
         {
+            "id" : "1",
           "nome": "Figurinha 3",
           "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
           "categoria": "comum"
         },
         {
+            "id" : "2",
           "nome": "Figurinha 4",
           "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
           "categoria": "raro"
@@ -65,16 +77,19 @@
       ]
     }, 
     {
+        "id" : "3",
         "nome": "The Masked Singer",
         "capa": "https://i.im.ge/2023/09/26/NmowHp.Rectangle-58.png",
         "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/2f/The_Masked_Singer_Brasil.png",
         "figurinhas": [
           {
+            "id" : "1",
             "nome": "Figurinha 3",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "comum"
           },
           {
+            "id" : "2",
             "nome": "Figurinha 4",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "raro"
@@ -82,16 +97,19 @@
         ]
       },
       {
+        "id" : "4",
         "nome": "No Limite",
         "capa": "https://i.im.ge/2023/09/26/Nmo5B4.Rectangle-58-1.png",
         "imagem": "https://logodownload.org/wp-content/uploads/2021/04/no-limite-logo.png",
         "figurinhas": [
           {
+            "id" : "1",
             "nome": "Figurinha 3",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "comum"
           },
           {
+            "id" : "2",
             "nome": "Figurinha 4",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "raro"
@@ -99,16 +117,19 @@
         ]
       }, 
       {
+        "id" : "5",
         "nome": "The Voice Brasil",
         "capa": "https://i.im.ge/2023/09/26/NmomAq.Rectangle-57.png",
         "imagem": "https://seeklogo.com/images/T/the-voice-logo-E9D3BD962A-seeklogo.com.png",
         "figurinhas": [
           {
+            "id" : "1",
             "nome": "Figurinha 3",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "comum"
           },
           {
+            "id" : "2",
             "nome": "Figurinha 4",
             "imagem": "https://i.im.ge/2023/09/26/NmojaC.Rectangle-56.png",
             "categoria": "raro"
